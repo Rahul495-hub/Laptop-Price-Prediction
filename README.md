@@ -1,7 +1,7 @@
 # Laptop-Price-Prediction
 
 
-## To Run Locally
+## ▶️ To Run Locally
 
 ```
 # Clone the repository
